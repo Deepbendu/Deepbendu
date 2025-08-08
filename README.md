@@ -8,9 +8,6 @@ I'm passionate about building secure, scalable systems that solve real-world pro
 Proficient in **C++**, my primary language for problem-solving 💡 and competitive programming.  
 Currently learning **Artificial Intelligence & Machine Learning** 📚 to deepen my understanding of data-driven technologies.
 
-
----
-
 💼 **Actively seeking full-time roles** in **Cloud Engineering**, **Cybersecurity**, or **Full-Stack Development**
 
 ---
