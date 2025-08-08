@@ -4,8 +4,8 @@
 **💡 Cloud Infrastructure** | **Security** | **Full-Stack Development** | **AIML** (Currently Learning)  
 📈 **500+ DSA problems** solved on [**LeetCode**](https://leetcode.com/u/deepbendu/) | **Global Rank #1465** (Contest 440)
 
-I'm passionate about building secure, scalable systems that solve real-world problems through clean architecture and automation.
-I'm proficient in **C++**, my primary language for problem-solving 💡 and competitive programming.  
+I'm passionate about building secure, scalable systems that solve real-world problems through clean architecture and automation.  
+Proficient in **C++**, my primary language for problem-solving 💡 and competitive programming.  
 Currently learning **Artificial Intelligence & Machine Learning** 📚 to deepen my understanding of data-driven technologies.
 
 
