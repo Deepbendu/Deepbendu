@@ -4,17 +4,17 @@
 💡 Cloud Infrastructure | Security | Full-Stack Development | AIML (Currently Learning)  
 📈 500+ DSA problems solved on [LeetCode](https://leetcode.com/u/deepbendu/) | Global Rank #1465 (Contest 440)
 
-I'm passionate about building secure, scalable, intelligent systems that solve real-world problems through clean architecture and automation.
-Proficient in **C++**, which I use as my primary language for problem-solving and competitive programming.  
-Currently learning **Artificial Intelligence & Machine Learning** to expand my understanding of data-driven solutions.
+I'm passionate about building secure, scalable systems that solve real-world problems through clean architecture and automation.
+I'm proficient in **C++**, my primary language for problem-solving 💡 and competitive programming.  
+Currently learning **Artificial Intelligence & Machine Learning** 📚 to deepen my understanding of data-driven technologies.
 
- ---
- 
-💼 **Actively seeking full-time roles** in **Cloud Engineering**, **Cybersecurity**, or **Full-Stack Development**
-
-📫 [Email](mailto:debnathdeepbendu@gmail.com) • [LinkedIn](https://linkedin.com/in/deepbendu-debnath) • [Portfolio](https://deepbendu-portfolio.vercel.app)
 
 ---
+
+💼 **Actively seeking full-time roles** in **Cloud Engineering**, **Cybersecurity**, or **Full-Stack Development**
+
+---
+
 ## 🏅 Certifications
 
 ### ☁️ Cloud & Infrastructure
@@ -32,31 +32,42 @@ Currently learning **Artificial Intelligence & Machine Learning** to expand my u
 
 ---
 
-## 🧠 Technical Skills & Tools
+## 🧠 Tech Stack
 
-### 🚀 Languages  
+**Languages:**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-### 🌐 Frontend  
+**Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### ☁️ Cloud & Backend  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle--Cloud-F80000?style=flat&logo=oracle&logoColor=white)
+**Backend & Cloud:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle--Cloud-F80000?style=flat&logo=oracle&logoColor=white)
 
-### 🛠 Tools & Platforms  
+**Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepbendu-debnath)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/Deepbendu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat&logo=vercel&logoColor=white)](https://deepbendu-portfolio.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/deepbendu/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=flat&logo=gmail&logoColor=white)](mailto:debnathdeepbendu@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/deeps1.0)
