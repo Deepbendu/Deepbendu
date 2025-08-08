@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Deepbendu Debnath
 
 ### 🎓 Final-Year Computer Science Student at **VIT Vellore**  
-🛠️ **Cloud Infrastructure** | **Security** | **Full-Stack Development** | **AIML** (Currently Learning)
+🛠️ **Cloud Infrastructure** | **Security** | **Full-Stack Development** | **AIML** (Currently Learning)  
 📈 **500+ DSA problems** solved on [**LeetCode**](https://leetcode.com/u/deepbendu/) | **Global Rank #1465** (Contest 440)
 
 I'm passionate about building secure, scalable systems that solve real-world problems through clean architecture and automation.  
