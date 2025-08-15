@@ -45,6 +45,7 @@ Currently learning 📚 **Artificial Intelligence & Machine Learning**  to deepe
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle--Cloud-F80000?style=flat&logo=oracle&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EE9827?style=flat&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
