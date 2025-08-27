@@ -12,7 +12,7 @@ Currently learning 📚 **Artificial Intelligence & Machine Learning**  to deepe
 
 ---
 
-## 🏅 Certifications
+<!-- ## 🏅 Certifications
 
 ### ☁️ Cloud & Infrastructure
 - [AWS Certified Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/40d503c796ac43eb9f5d3912b5adad30)  
@@ -25,9 +25,8 @@ Currently learning 📚 **Artificial Intelligence & Machine Learning**  to deepe
 - [Oracle Cloud Infrastructure Certified Generative AI Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=79FC072048382632860096CDD6736EACB6EF56A1DAB4861ABF18E5F2153E5645)
 
 ### 🛡️ Security
-- [IBM Certified Cybersecurity Analyst](https://courses.vit.skillsnetwork.site/certificates/e70cb8a1954c425293d6bbec604f4e6b)
+- [IBM Certified Cybersecurity Analyst](https://courses.vit.skillsnetwork.site/certificates/e70cb8a1954c425293d6bbec604f4e6b) -->
 
----
 
 ## 💻 Tech Stack
 
